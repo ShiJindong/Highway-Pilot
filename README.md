@@ -1,9 +1,9 @@
 # Highway-Pilot
 ---
-This is a easy Highway-Pilot system I finished in Laboratory of Software Engineering. (Please see https://www.itiv.kit.edu/60_6075.php)
+This is a easy Highway-Pilot system I finished in Laboratory of Software Engineering. (For more information, please visit https://www.itiv.kit.edu/60_6075.php)
 
 In this project, the sensordate (inclusive IMU, Radar, Object-Sensor, Road-Sensor) are processed und used for lateral and longitudinal control of vehicles. The following functionalities are realized:
-- Set desired speed and speed limit
+- Set desired speed and speed limit of vehicles
 - Speed limit at curvature drive
 - Adaptive Cruise Control (ACC mode)
 - longitudinal speed control (free drive mode)
