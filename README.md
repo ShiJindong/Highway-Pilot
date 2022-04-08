@@ -7,7 +7,7 @@ In this project, the sensordate (inclusive IMU, Radar, Object-Sensor, Road-Senso
 - Automated speed limit at curvature drive w.r.t. the road curvature
 - Adaptive Cruise Control (ACC mode)
 - Longitudinal speed control (free drive mode)
-- For Emergency: The ego vehicle should change lane left/right or brake quickly, if there is any vehicle ahead too close to the ego vehicle. (obstacle avoid mode)
+- For Emergency: The ego vehicle should change lane left/right or brake immediately, if there is any vehicle ahead too close to the ego vehicle. (obstacle avoid mode)
 - Lane keeping by following the road line
 - Lane change triggered with Direct Variable Access (DVA) of CarMaker
 - Lane change left/right is permited, only if there is a corresponding gap in left/right lane
