@@ -6,7 +6,7 @@ In this project, the sensordate (inclusive IMU, Radar, Object-Sensor, Road-Senso
 - Set desired speed and speed limit of vehicles
 - Speed limit at curvature drive
 - Adaptive Cruise Control (ACC mode)
-- longitudinal speed control (free drive mode)
+- Longitudinal speed control (free drive mode)
 - For Emergency: The ego vehicle should change lane left/right or brake quickly, if there is any vehicle ahead too close to the ego vehicle. (obstacle avoid mode)
 - Lane change triggered with Direct Variable Access (DVA)
 - Lane keeping
