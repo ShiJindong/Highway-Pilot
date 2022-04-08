@@ -10,7 +10,7 @@ In this project, the sensordate (inclusive IMU, Radar, Object-Sensor, Road-Senso
 - For Emergency: The ego vehicle should change lane left/right or brake quickly, if there is any vehicle ahead too close to the ego vehicle. (obstacle avoid mode)
 - Lane change triggered with Direct Variable Access (DVA)
 - Lane keeping
-- Lane change left/right is permited, only if there is a corresponding gap in left/right lane                                  
+- Lane change left/right is permited, only if there is a corresponding gap in left/right lane
 - Overtake: entire overtake process consists of lane change left, overtake beside the vehicle and lane change right
 
 CarMaker, as a advanced vehicle simulation environment (please see https://ipg-automotive.com/) would be used to implement the virtual test scenarios and to verify the functionalities of this Highway-Pilot system.
