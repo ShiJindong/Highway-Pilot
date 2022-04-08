@@ -1,0 +1,51 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1060 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 19:46:57
+ 
+FIRST_INIT	(internal default used)	2021-07-28 19:47:09
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:47:09
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:47:11
+TIME	0.074
+		Current random seed value = 1627494431
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	152.913
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	152.909s	4476.46m
+TIME	155.995
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:48:36
+TIME	0.071
+		Current random seed value = 1627494516
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	115.316
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	115.312s	3091.58m
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:49:18
+TIME	0.073
+		Current random seed value = 1627494558
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	150.968
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	150.964s	4474.95m
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:50:31
+TIME	0.072
+		Current random seed value = 1627494631
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	79.230
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	79.226s	1990.41m
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:51:02
+TIME	0.073
+		Current random seed value = 1627494662
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	55.514
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	55.51s	1398m
+TIME	60.755
+SHUTDOWN	CarMaker quick shutdown initiated
+

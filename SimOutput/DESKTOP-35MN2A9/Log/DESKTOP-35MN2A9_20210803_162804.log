@@ -1,0 +1,46 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1085 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-08-03 15:47:35
+ 
+FIRST_INIT	(internal default used)	2021-08-03 16:28:04
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:28:04
+SIM_START	Scenario3_Overtake	2021-08-03 16:28:14
+TIME	0.075
+		Current random seed value = 1628000894
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	25.329
+SIM_END		Scenario3_Overtake	25.326s	530.349m
+TIME	0.001
+TIME	43.722
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 16:31:29
+TIME	0.072
+		Current random seed value = 1628001089
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	88.841
+SIM_END		Scenario2_Curvature_Drive	88.838s	3030.36m
+TIME	124.584
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 16:37:58
+TIME	0.072
+		Current random seed value = 1628001478
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	86.076
+SIM_END		Scenario2_Curvature_Drive	86.073s	2930.65m
+TIME	91.020
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 16:39:18
+TIME	0.071
+		Current random seed value = 1628001558
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	9.198
+ERROR		Vehicle leaves road at about x=179.385, y=27.6251 TireNo=1
+SIM_ABORT	Scenario2_Curvature_Drive	9.198s	184.912m
+SHUTDOWN	CarMaker quick shutdown initiated
+

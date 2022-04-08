@@ -1,0 +1,28 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #822 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-13 19:22:53
+ 
+FIRST_INIT	(internal default used)	2021-07-13 19:23:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:23:14
+SIM_START	HighwayPilot_v2_2	2021-07-13 19:23:24
+TIME	0.067
+		Current random seed value = 1626197004
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	7.009
+ERROR		Vehicle leaves road at about x=127.324, y=14.5606 TireNo=0
+SIM_ABORT	HighwayPilot_v2_2	7.009s	129.067m
+SIM_START	HighwayPilot_v2_2	2021-07-13 19:23:45
+TIME	0.064
+		Current random seed value = 1626197025
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	33.217
+ERROR		Vehicle leaves road at about x=199.863, y=66.545 TireNo=1
+SIM_ABORT	HighwayPilot_v2_2	33.217s	857.458m
+TIME	35.952
+SHUTDOWN	CarMaker quick shutdown initiated
+

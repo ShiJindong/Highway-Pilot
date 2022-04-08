@@ -1,0 +1,54 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1056 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 19:32:16
+ 
+FIRST_INIT	(internal default used)	2021-07-28 19:32:25
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:32:26
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:32:28
+TIME	0.073
+		Current random seed value = 1627493548
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	148.808
+SIM_END		HighwayPilot_v3_1	148.805s	4473.05m
+TIME	160.766
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:35:20
+TIME	0.073
+		Current random seed value = 1627493720
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	69.246
+ERROR		Embedded FARoadSensor Route:  xyz (0.03 -12.13 0.02) at 2070.794 not found on Road
+SIM_ABORT	HighwayPilot_LaneChangeProtect_Overtake	69.246s	2079.28m
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:35:56
+TIME	0.073
+		Current random seed value = 1627493756
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	148.832
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	148.828s	4474.64m
+TIME	168.434
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:40:04
+TIME	0.072
+		Current random seed value = 1627494004
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	149.563
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	149.56s	4473.59m
+TIME	151.772
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:41:19
+TIME	0.072
+		Current random seed value = 1627494079
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	152.610
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	152.607s	4476.17m
+TIME	163.501
+SHUTDOWN	CarMaker quick shutdown initiated
+

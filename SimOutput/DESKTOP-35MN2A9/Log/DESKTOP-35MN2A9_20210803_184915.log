@@ -1,0 +1,69 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1143 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-08-03 18:48:47
+ 
+FIRST_INIT	(internal default used)	2021-08-03 18:49:15
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:49:16
+SIM_START	Scenario3_LaneKeeping_LaneChange	2021-08-03 18:49:23
+TIME	0.075
+		Current random seed value = 1628009363
+TIME	0.000
+SIMULATE	Scenario3_LaneKeeping_LaneChange
+
+TIME	33.032
+SIM_END		Scenario3_LaneKeeping_LaneChange	33.028s	701.941m
+TIME	36.009
+SIM_START	Scenario3_LaneKeeping_LaneChange	2021-08-03 18:50:06
+TIME	0.074
+		Current random seed value = 1628009406
+TIME	0.000
+SIMULATE	Scenario3_LaneKeeping_LaneChange
+
+TIME	71.257
+ERROR		Embedded FARoadSensor Route:  xyz (0.03 -11.57 0.03) at 2070.793 not found on Road
+SIM_ABORT	Scenario3_LaneKeeping_LaneChange	71.257s	2084.07m
+SIM_START	Scenario3_LaneKeeping_LaneChange	2021-08-03 18:50:40
+TIME	0.071
+		Current random seed value = 1628009440
+TIME	0.000
+SIMULATE	Scenario3_LaneKeeping_LaneChange
+
+TIME	129.468
+SIM_END		Scenario3_LaneKeeping_LaneChange	129.465s	4257.38m
+SIM_START	Scenario3_LaneKeeping_LaneChange	2021-08-03 18:51:40
+TIME	0.074
+		Current random seed value = 1628009500
+TIME	0.000
+SIMULATE	Scenario3_LaneKeeping_LaneChange
+
+TIME	74.331
+SIM_END		Scenario3_LaneKeeping_LaneChange	74.328s	2079.71m
+TIME	76.915
+SIM_START	Scenario4_Overtake	2021-08-03 18:52:33
+TIME	0.071
+		Current random seed value = 1628009553
+TIME	0.000
+SIMULATE	Scenario4_Overtake
+
+TIME	101.594
+SIM_END		Scenario4_Overtake	101.59s	2549.29m
+SIM_START	Scenario4_Overtake	2021-08-03 18:53:12
+TIME	0.072
+		Current random seed value = 1628009592
+TIME	0.000
+SIMULATE	Scenario4_Overtake
+
+TIME	116.316
+SIM_END		Scenario4_Overtake	116.312s	3552.43m
+TIME	118.761
+SIM_START	Scenario4_Overtake	2021-08-03 18:54:18
+TIME	0.074
+		Current random seed value = 1628009658
+TIME	0.000
+SIMULATE	Scenario4_Overtake
+
+TIME	64.612
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_END		Scenario4_Overtake	64.612s	1676.95m

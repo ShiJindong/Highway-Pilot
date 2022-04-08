@@ -1,0 +1,158 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1048 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 18:53:53
+ 
+FIRST_INIT	(internal default used)	2021-07-28 18:54:03
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:54:03
+SIM_START	HighwayPilot_v3_1	2021-07-28 18:54:06
+TIME	0.074
+		Current random seed value = 1627491246
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	135.363
+SIM_END		HighwayPilot_v3_1	135.36s	4327.69m
+SIM_START	HighwayPilot_v3_1	2021-07-28 18:55:09
+TIME	0.073
+		Current random seed value = 1627491309
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	48.355
+SIM_END		HighwayPilot_v3_1	48.352s	1486.4m
+TIME	52.638
+SIM_START	HighwayPilot_v3_1	2021-07-28 18:56:10
+TIME	0.073
+		Current random seed value = 1627491370
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	109.633
+SIM_END		HighwayPilot_v3_1	109.63s	3504.11m
+TIME	117.696
+SIM_START	HighwayPilot_v3_1	2021-07-28 18:58:10
+TIME	0.071
+		Current random seed value = 1627491490
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	135.465
+SIM_END		HighwayPilot_v3_1	135.462s	4474.09m
+TIME	137.583
+SIM_START	HighwayPilot_v3_1	2021-07-28 18:59:19
+TIME	0.071
+		Current random seed value = 1627491559
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	3.911
+SIM_END		HighwayPilot_v3_1	3.908s	64.6721m
+SIM_START	HighwayPilot_v3_1	2021-07-28 18:59:36
+TIME	0.071
+		Current random seed value = 1627491576
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	112.845
+SIM_END		HighwayPilot_v3_1	112.841s	3484.8m
+TIME	115.659
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:00:44
+TIME	0.073
+		Current random seed value = 1627491644
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	116.227
+SIM_END		HighwayPilot_v3_1	116.224s	3594.88m
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:01:40
+TIME	0.071
+		Current random seed value = 1627491700
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	134.740
+SIM_END		HighwayPilot_v3_1	134.737s	4473.95m
+TIME	141.200
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:03:14
+TIME	0.072
+		Current random seed value = 1627491794
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	47.324
+SIM_END		HighwayPilot_v3_1	47.32s	1373.82m
+TIME	0.001
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:03:54
+TIME	0.073
+		Current random seed value = 1627491834
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	53.488
+SIM_END		HighwayPilot_v3_1	53.484s	1558.24m
+TIME	57.059
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:04:43
+TIME	0.071
+		Current random seed value = 1627491883
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	73.505
+ERROR		Vehicle leaves road at about x=22.0148, y=-11.9392 TireNo=1
+SIM_ABORT	HighwayPilot_v3_1	73.505s	2103.63m
+TIME	78.956
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:05:54
+TIME	0.072
+		Current random seed value = 1627491954
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	144.635
+SIM_END		HighwayPilot_v3_1	144.632s	4480.61m
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:06:33
+TIME	0.071
+		Current random seed value = 1627491993
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	61.092
+SIM_END		HighwayPilot_v3_1	61.088s	1858.57m
+TIME	68.918
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:08:06
+TIME	0.070
+		Current random seed value = 1627492086
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	118.113
+SIM_END		HighwayPilot_v3_1	118.109s	3432.74m
+TIME	122.484
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:09:16
+TIME	0.071
+		Current random seed value = 1627492156
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	151.893
+SIM_END		HighwayPilot_v3_1	151.89s	4472.49m
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:09:55
+TIME	0.071
+		Current random seed value = 1627492195
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	142.460
+SIM_END		HighwayPilot_v3_1	142.457s	4202.38m
+TIME	145.745
+SIM_START	HighwayPilot_v3_1	2021-07-28 19:10:59
+TIME	0.072
+		Current random seed value = 1627492259
+TIME	0.000
+SIMULATE	HighwayPilot_v3_1
+
+TIME	91.019
+SIM_END		HighwayPilot_v3_1	91.016s	2578.15m
+TIME	95.794
+SHUTDOWN	CarMaker quick shutdown initiated
+

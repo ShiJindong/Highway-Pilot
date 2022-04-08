@@ -1,0 +1,18 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #643 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-12 23:43:44
+ 
+FIRST_INIT	(internal default used)	2021-07-12 23:43:52
+TIME	0.000
+SIM_END			0s	0m
+IDLE	23:43:52
+SIM_START	HighwayPilot_v2_2	2021-07-12 23:43:54
+TIME	0.067
+		Current random seed value = 1626126234
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	3.713
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 3.712000, ErrInd = 102). (id=200)
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_END		HighwayPilot_v2_2	3.792s	90.3748m

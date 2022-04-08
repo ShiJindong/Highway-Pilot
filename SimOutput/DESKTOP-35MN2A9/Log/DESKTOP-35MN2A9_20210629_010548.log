@@ -1,0 +1,15 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-06-29 01:05:37
+ 
+FIRST_INIT	(internal default used)	2021-06-29 01:05:48
+TIME	0.000
+SIM_END			0s	0m
+IDLE	01:05:49
+SIM_START	HighwayPilot	2021-06-29 01:05:52
+TIME	0.000
+SIMULATE	HighwayPilot
+
+TIME	30.055
+SIM_END		HighwayPilot	30.052s	1073.75m
+SHUTDOWN	CarMaker quick shutdown initiated
+

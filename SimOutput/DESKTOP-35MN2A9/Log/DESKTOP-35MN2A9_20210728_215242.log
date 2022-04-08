@@ -1,0 +1,93 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1070 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 21:28:15
+ 
+FIRST_INIT	(internal default used)	2021-07-28 21:52:42
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:52:43
+SIM_START	Scenario3_Overtake	2021-07-28 21:52:49
+TIME	0.074
+		Current random seed value = 1627501969
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	146.932
+SIM_END		Scenario3_Overtake	146.929s	4474.91m
+TIME	151.832
+SIM_START	Scenario3_Overtake	2021-07-28 21:54:36
+TIME	0.073
+		Current random seed value = 1627502076
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	137.432
+SIM_END		Scenario3_Overtake	137.429s	4122.22m
+SIM_START	Scenario3_Overtake	2021-07-28 21:55:38
+TIME	0.074
+		Current random seed value = 1627502138
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	134.322
+SIM_END		Scenario3_Overtake	134.319s	4050.76m
+SIM_START	Scenario3_Overtake	2021-07-28 21:58:10
+TIME	0.071
+		Current random seed value = 1627502290
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	138.419
+SIM_END		Scenario3_Overtake	138.416s	4195.5m
+TIME	143.295
+SIM_START	Scenario3_Overtake	2021-07-28 22:00:28
+TIME	0.072
+		Current random seed value = 1627502428
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	138.841
+SIM_END		Scenario3_Overtake	138.838s	4213.68m
+TIME	142.045
+SIM_START	Scenario3_Overtake	2021-07-28 22:02:11
+TIME	0.072
+		Current random seed value = 1627502531
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	152.546
+SIM_END		Scenario3_Overtake	152.543s	4475.28m
+SIM_START	Scenario3_Overtake	2021-07-28 22:02:54
+TIME	0.072
+		Current random seed value = 1627502574
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	136.449
+SIM_END		Scenario3_Overtake	136.444s	4148.96m
+TIME	180.858
+SIM_START	Scenario1_Speedcontroll_ACC	2021-07-28 22:11:09
+TIME	0.071
+		Current random seed value = 1627503069
+TIME	0.000
+SIMULATE	Scenario1_Speedcontroll_ACC
+
+TIME	147.306
+SIM_END		Scenario1_Speedcontroll_ACC	147.303s	4475.19m
+SIM_START	Scenario2_LaneKeeping_LaneChange	2021-07-28 22:11:57
+TIME	0.070
+		Current random seed value = 1627503117
+TIME	0.000
+SIMULATE	Scenario2_LaneKeeping_LaneChange
+
+TIME	157.332
+SIM_END		Scenario2_LaneKeeping_LaneChange	157.329s	4476.37m
+SIM_START	Scenario3_Overtake	2021-07-28 22:12:51
+TIME	0.071
+		Current random seed value = 1627503171
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	144.348
+SIM_END		Scenario3_Overtake	144.345s	3860.76m
+SHUTDOWN	CarMaker quick shutdown initiated
+

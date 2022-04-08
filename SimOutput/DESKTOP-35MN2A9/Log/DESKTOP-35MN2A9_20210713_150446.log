@@ -1,0 +1,81 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #738 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-13 15:04:36
+ 
+FIRST_INIT	(internal default used)	2021-07-13 15:04:46
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:04:46
+TIME	4.310
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:05:30
+TIME	0.067
+		Current random seed value = 1626181530
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	38.800
+SIM_END		HighwayPilot_v2_2	38.797s	1352.48m
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:05:54
+TIME	0.067
+		Current random seed value = 1626181554
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	115.493
+SIM_END		HighwayPilot_v2_2	115.49s	3484.03m
+TIME	148.510
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:12:05
+TIME	0.067
+		Current random seed value = 1626181925
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	145.095
+SIM_END		HighwayPilot_v2_2	145.092s	4475.2m
+TIME	162.804
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:15:53
+TIME	0.067
+		Current random seed value = 1626182153
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	46.867
+SIM_END		HighwayPilot_v2_2	46.864s	1452.29m
+TIME	50.337
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:17:12
+TIME	0.067
+		Current random seed value = 1626182232
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	151.235
+SIM_END		HighwayPilot_v2_2	151.232s	4475.53m
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:19:51
+TIME	0.067
+		Current random seed value = 1626182391
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	26.767
+ERROR		Vehicle leaves road at about x=-1153.43, y=262.274 TireNo=0
+SIM_ABORT	HighwayPilot_v2_2	26.767s	856.818m
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:20:25
+TIME	0.065
+		Current random seed value = 1626182425
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	2.651
+ERROR		Vehicle leaves road at about x=-1483.52, y=937.611 TireNo=0
+SIM_ABORT	HighwayPilot_v2_2	2.651s	65.7241m
+TIME	27.604
+SIM_START	HighwayPilot_v2_2	2021-07-13 15:24:39
+TIME	0.064
+		Current random seed value = 1626182679
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	2.651
+ERROR		Vehicle leaves road at about x=-1483.52, y=937.611 TireNo=0
+SIM_ABORT	HighwayPilot_v2_2	2.651s	65.7241m
+SHUTDOWN	CarMaker quick shutdown initiated
+

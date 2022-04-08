@@ -1,0 +1,163 @@
+#INFOFILE1.1 - Do not remove this line!
+TestRun.Name = HighwayPilot
+Vehicle = Examples/DemoCar
+Trailer =
+Trailer2 =
+Tire.0 =
+Tire.1 =
+Tire.2 =
+Tire.3 =
+Road.FileIdent = IPGRoad 9.0
+Road.LibVersion = 9.1.1
+Road.Country = DEU
+Road.nLinks = 1
+Road.nJunctions = 0
+Road.nObjects = 126
+Road.nRoutes = 1
+Road.RoadNetworkLength = 5000
+Road.BBox = -10.0642802658037 5010.01514860263 -46.6654664160041 24.4998575181768 -11 11
+Road.Route.0.Length = 5000
+Road.RST.Unit = kmh
+Road.RST = 50 100 130 30 70 30 0 -1
+Road.Movie = 0.2 1 0.01 1.5 1.5 1 1
+Road.PathMode = -1
+Road.Link.0.ID = 0
+Road.Link.0.Junctions = -1 -1 -2 -1
+Road.Link.0.Node0 = 0 0 0 359.746
+Road.Link.0.RST = countryroad
+Road.Link.0.RL.ID = 1
+Road.Link.0.Seg.0.ID = 5
+Road.Link.0.Seg.0.Type = Straight
+Road.Link.0.Seg.0.Param = 5000 0 0 0 0 0 0 0
+Road.Link.0.LaneSection.0.ID = 6
+Road.Link.0.LaneSection.0.Start = 0
+Road.Link.0.LaneSection.0.LaneL.0.ID = 86
+Road.Link.0.LaneSection.0.LaneL.0 = 0 0.5 0.5 20 0 0 0
+Road.Link.0.LaneSection.0.LaneL.0.ARP = 87 88 89 90 91 92
+Road.Link.0.LaneSection.0.LaneL.1.ID = 76
+Road.Link.0.LaneSection.0.LaneL.1 = 0 3.5 3.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneL.1.ARP = 77 78 79 80 81 82
+Road.Link.0.LaneSection.0.LaneL.2.ID = 96
+Road.Link.0.LaneSection.0.LaneL.2 = 0 3.5 3.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneL.2.ARP = 97 98 99 100 101 102
+Road.Link.0.LaneSection.0.LaneL.3.ID = 7
+Road.Link.0.LaneSection.0.LaneL.3 = 0 3.5 3.5 16 0 0 0
+Road.Link.0.LaneSection.0.LaneL.3.ARP = 8 9 10 11 12 13
+Road.Link.0.LaneSection.0.LaneL.4.ID = 18
+Road.Link.0.LaneSection.0.LaneL.4 = 0 1 1 4 0 0 0
+Road.Link.0.LaneSection.0.LaneL.4.ARP = 19 20 21 22 23 24
+Road.Link.0.LaneSection.0.LaneL.5.ID = 28
+Road.Link.0.LaneSection.0.LaneL.5 = 0 2.5 2.5 5 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.ID = 66
+Road.Link.0.LaneSection.0.LaneR.0 = 0 0.5 0.5 20 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.ARP = 67 68 69 70 71 72
+Road.Link.0.LaneSection.0.LaneR.1.ID = 56
+Road.Link.0.LaneSection.0.LaneR.1 = 0 3.5 3.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneR.1.ARP = 57 58 59 60 61 62
+Road.Link.0.LaneSection.0.LaneR.2.ID = 106
+Road.Link.0.LaneSection.0.LaneR.2 = 0 3.5 3.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneR.2.ARP = 107 108 109 110 111 112
+Road.Link.0.LaneSection.0.LaneR.3.ID = 29
+Road.Link.0.LaneSection.0.LaneR.3 = 0 3.5 3.5 16 0 0 0
+Road.Link.0.LaneSection.0.LaneR.3.ARP = 30 31 32 33 34 35
+Road.Link.0.LaneSection.0.LaneR.4.ID = 42
+Road.Link.0.LaneSection.0.LaneR.4 = 0 1 1 4 0 0 0
+Road.Link.0.LaneSection.0.LaneR.4.ARP = 43 44 45 46 47 48
+Road.Link.0.LaneSection.0.LaneR.5.ID = 52
+Road.Link.0.LaneSection.0.LaneR.5 = 0 2.5 2.5 5 0 0 0
+Road.LanePath.0 = 14 7 2 10 0.1 0.1
+Road.LanePath.1 = 25 18 0.25 10 0.1 0.1
+Road.LanePath.2 = 36 29 2 10 0.1 0.1
+Road.LanePath.3 = 49 42 0.25 10 0.1 0.1
+Road.LanePath.4 = 63 56 2 10 0.1 0.1
+Road.LanePath.5 = 73 66 2 10 0.1 0.1
+Road.LanePath.6 = 83 76 2 10 0.1 0.1
+Road.LanePath.7 = 93 86 2 10 0.1 0.1
+Road.LanePath.8 = 103 96 -1 10 0.1 0.1
+Road.LanePath.9 = 113 106 2 10 0.1 0.1
+Route.0.ID = 124
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 125
+Route.0.DrvPath:
+	113
+Road.RL.1.RoadMarking.0.ID = 120 56
+Road.RL.1.RoadMarking.0 = 0 0 1.578 1 0 -1 0.15 0 2 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.1.ID = 119 76
+Road.RL.1.RoadMarking.1 = 0 0 0 1 0 1 0.15 0 2 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.2.ID = 118 96
+Road.RL.1.RoadMarking.2 = 0 0 0.209 1 0 1 0.15 0 1 0 0 0 0 1 1 0 ""
+Road.RL.1.RoadMarking.2.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.3.ID = 117 106
+Road.RL.1.RoadMarking.3 = 0 0 1.595 1 0 -1 0.15 0 1 0 0 0 0 1 1 0 ""
+Road.RL.1.RoadMarking.3.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.4.ID = 53 86
+Road.RL.1.RoadMarking.4 = 0 0 0.599 1 0 1 0.15 0 1 0 0 0 0 1 1 0 ""
+Road.RL.1.RoadMarking.4.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.5.ID = 116 66
+Road.RL.1.RoadMarking.5 = 0 0 0 1 0 -1 0.15 0 1 0 0 0 0 1 1 0 ""
+Road.RL.1.RoadMarking.5.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.6.ID = 17 7
+Road.RL.1.RoadMarking.6 = 0 0 0 1 0 1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.6.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.RoadMarking.7.ID = 41 29
+Road.RL.1.RoadMarking.7 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
+Road.RL.1.RoadMarking.7.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+Road.RL.1.TrafficBarrier.0.ID = 123 18
+Road.RL.1.TrafficBarrier.0 = 0 0 0 1 0 1 0.155 0.75 1 0 3 1 1 0 2 0 0
+Road.RL.1.TrafficBarrier.1.ID = 122 42
+Road.RL.1.TrafficBarrier.1 = 0 0 0.274 1 0 -1 0.155 0.75 1 0 3 1 1 0 2 0 0
+Road.RL.1.TrafficBarrier.2.ID = 121 6
+Road.RL.1.TrafficBarrier.2 = 0 0 0.24 1 0 0 0.155 0.75 7 0 3 1 1 0 2 0 0
+Road.MaxUsedObjId = 125
+Road.VhclStartPos = 0 0 0
+Road.VhclRoute = Route_0
+Road.RouteId = 0
+Env.StartTime.Year = 2014
+Env.StartTime.Month = 7
+Env.StartTime.Day = 1
+Env.StartTime.Hour = 12
+Env.StartTime.Min = 0
+Env.StartTime.Sec = 0
+Env.StartTime.DeltaUTC = 0.0
+Env.GNav.Active = 0
+Env.Temperature = 20.0
+Env.AirDensity = 1.205
+Env.AirPressure = 1.013
+Env.AirHumidity = 60
+Env.SolarRadiation = 400.0
+Env.RainRate = 0.0
+Env.VisRangeInFog = 10000.0
+Env.Wind.Kind = none
+Env.Wind.Velocity = 0.0
+Env.Wind.Angle = 0.0
+Env.Sun.Position = angleDefinition
+Env.Sun.Azimuth = 45.0
+Env.Sun.Elevation = 45.0
+Env.Kind = Generic
+Env.Temp.Offset_Elev = -0.0065
+Env.Temp.Offset_sRoad.Amplify = 1.0
+Env.Temp.Offset_sRoad.On = 0
+Env.Temp.Offset_Time.Amplify = 1.0
+Env.Temp.Offset_Time.On = 1
+Env.Temp.Offset_Time:
+	0.0 -2.0
+	3.0 -2.5
+	6.0 -2.7
+	7.5 -2.7
+	9.0 -2.5
+	10.0 -2.3
+	11.0 -1.6
+	12.0 0.0
+	13.0 1.4
+	14.0 2.1
+	15.5 2.5
+	17.0 2.2
+	18.0 1.7
+	19.0 1.1
+	20.0 0.2
+	21.0 -0.6
+	22.0 -1.1
+	23.0 -1.6
+	24.0 -2.0

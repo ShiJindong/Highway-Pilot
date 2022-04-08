@@ -1,0 +1,38 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #20 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-06-29 00:41:19
+ 
+FIRST_INIT	(internal default used)	2021-06-29 00:41:47
+TIME	0.000
+SIM_END			0s	0m
+IDLE	00:41:47
+SIM_START	HighwayPilot	2021-06-29 00:41:52
+TIME	0.013
+ERROR		AccelCtrl.ACC: no ObjectSensor found with the name 'RadarL'
+SIM_ABORT	HighwayPilot	0s	0m
+TIME	6.936
+SIM_START	HighwayPilot	2021-06-29 00:43:01
+TIME	0.092
+ERROR		AccelCtrl.ACC: no ObjectSensor found with the name 'RadarL'
+		Current random seed value = 1624920181
+SIM_ABORT	HighwayPilot	0s	0m
+TIME	3.946
+SIM_START	HighwayPilot	2021-06-29 00:43:40
+TIME	0.013
+ERROR		AccelCtrl.ACC: no ObjectSensor found with the name 'RadarL'
+		Current random seed value = 1624920220
+SIM_ABORT	HighwayPilot	0s	0m
+TIME	7.707
+SIM_START	HighwayPilot	2021-06-29 00:44:58
+TIME	0.000
+SIMULATE	HighwayPilot
+
+TIME	19.106
+SIM_END		HighwayPilot	19.103s	542.98m
+SIM_START	HighwayPilot	2021-06-29 00:45:35
+TIME	0.000
+SIMULATE	HighwayPilot
+
+TIME	78.076
+SIM_END		HighwayPilot	78.073s	2597.45m
+SHUTDOWN	CarMaker quick shutdown initiated
+

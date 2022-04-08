@@ -1,0 +1,52 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #912 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-20 21:39:00
+ 
+FIRST_INIT	(internal default used)	2021-07-20 21:39:11
+TIME	0.000
+SIM_END			0s	0m
+IDLE	21:39:12
+SIM_START	HighwayPilot_v2_2	2021-07-20 21:39:17
+TIME	0.103
+		Current random seed value = 1626809957
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	71.522
+ERROR		Embedded FARoadSensor Route:  xyz (0.02 -11.96 0.02) at 2070.794 not found on Road
+SIM_ABORT	HighwayPilot_v2_2	71.522s	2081.85m
+TIME	76.180
+SIM_START	HighwayPilot_v2_2	2021-07-20 21:41:18
+TIME	0.075
+		Current random seed value = 1626810078
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	44.475
+SIM_END		HighwayPilot_v2_2	44.472s	1336.5m
+SIM_START	HighwayPilot_v2_2	2021-07-20 21:42:20
+TIME	0.075
+		Current random seed value = 1626810140
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	47.076
+SIM_END		HighwayPilot_v2_2	47.072s	1255.68m
+TIME	50.360
+SIM_START	HighwayPilot_v2_2	2021-07-20 21:43:43
+TIME	0.075
+		Current random seed value = 1626810223
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	45.038
+SIM_END		HighwayPilot_v2_2	45.032s	1391.12m
+SIM_START	HighwayPilot_v2_2	2021-07-20 21:44:34
+TIME	0.074
+		Current random seed value = 1626810274
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	95.430
+SIM_END		HighwayPilot_v2_2	95.427s	2811.28m
+SHUTDOWN	CarMaker quick shutdown initiated
+

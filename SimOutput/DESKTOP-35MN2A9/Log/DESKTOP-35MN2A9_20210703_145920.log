@@ -1,0 +1,95 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #234 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-03 14:56:58
+ 
+FIRST_INIT	(internal default used)	2021-07-03 14:59:21
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:59:21
+TIME	4.591
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:00:07
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	43.471
+SIM_END		HighwayPilot_v1_2	43.468s	1067.02m
+TIME	53.712
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:02:37
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	19.163
+SIM_END		HighwayPilot_v1_2	19.16s	469.227m
+TIME	83.818
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:13:45
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	9.998
+SIM_END		HighwayPilot_v1_2	9.995s	243.839m
+TIME	64.333
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:23:01
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	24.345
+SIM_END		HighwayPilot_v1_2	24.342s	596.675m
+TIME	27.134
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:23:55
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	4.008
+SIM_END		HighwayPilot_v1_2	4.005s	96.5379m
+TIME	15.696
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:25:58
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	13.819
+SIM_END		HighwayPilot_v1_2	13.816s	385.407m
+TIME	0.001
+TIME	16.687
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:26:43
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	11.190
+SIM_END		HighwayPilot_v1_2	11.187s	308.744m
+TIME	14.123
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:27:26
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	7.486
+SIM_END		HighwayPilot_v1_2	7.483s	182.045m
+TIME	11.780
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:28:18
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	41.122
+SIM_END		HighwayPilot_v1_2	41.119s	1418.59m
+TIME	44.211
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:29:32
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+ERROR		Vehicle leaves road at about x=290.254, y=185.87 TireNo=1
+SIM_ABORT	HighwayPilot_v1_2	1.897s	37.1034m
+TIME	6.090
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:30:18
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	17.673
+SIM_END		HighwayPilot_v1_2	17.67s	467.68m
+SIM_START	HighwayPilot_v1_2	2021-07-03 15:30:38
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	50.530
+ERROR		Vehicle leaves road at about x=-53.4482, y=-6.79103 TireNo=0
+SIM_ABORT	HighwayPilot_v1_2	50.53s	1187.26m
+TIME	53.271
+SHUTDOWN	CarMaker quick shutdown initiated
+

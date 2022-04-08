@@ -1,0 +1,18 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1058 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 19:44:06
+ 
+FIRST_INIT	(internal default used)	2021-07-28 19:44:16
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:44:16
+SIM_START	HighwayPilot_LaneChangeProtect_Overtake	2021-07-28 19:44:23
+TIME	0.073
+		Current random seed value = 1627494263
+TIME	0.000
+SIMULATE	HighwayPilot_LaneChangeProtect_Overtake
+
+TIME	145.823
+SIM_END		HighwayPilot_LaneChangeProtect_Overtake	145.819s	4475.24m
+TIME	155.627
+SHUTDOWN	CarMaker quick shutdown initiated
+

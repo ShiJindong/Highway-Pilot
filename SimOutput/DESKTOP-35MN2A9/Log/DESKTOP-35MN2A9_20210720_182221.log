@@ -1,0 +1,12 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #878 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-20 18:22:07
+ 
+FIRST_INIT	(internal default used)	2021-07-20 18:22:21
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:22:22
+SIM_START	HighwayPilot_v2_2	2021-07-20 18:22:26
+TIME	0.093
+		Current random seed value = 1626798146
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

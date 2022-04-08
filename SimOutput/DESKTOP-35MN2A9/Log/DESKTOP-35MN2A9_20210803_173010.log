@@ -1,0 +1,77 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1115 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-08-03 17:30:00
+ 
+FIRST_INIT	(internal default used)	2021-08-03 17:30:11
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:30:11
+SIM_START	Scenario2_Clothoid_Drive	2021-08-03 17:30:15
+TIME	0.072
+		Current random seed value = 1628004615
+TIME	0.000
+SIMULATE	Scenario2_Clothoid_Drive
+
+TIME	24.887
+ERROR		Vehicle leaves road at about x=8.17598, y=48.5608 TireNo=3
+SIM_ABORT	Scenario2_Clothoid_Drive	24.887s	629.526m
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 17:30:42
+TIME	0.069
+		Current random seed value = 1628004642
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	88.689
+SIM_END		Scenario2_Curvature_Drive	88.685s	3024.85m
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 17:31:18
+TIME	0.071
+		Current random seed value = 1628004678
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	53.048
+SIM_END		Scenario2_Curvature_Drive	53.045s	1739.5m
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 17:31:51
+TIME	0.069
+		Current random seed value = 1628004711
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	6.553
+SIM_END		Scenario2_Curvature_Drive	6.55s	120.41m
+SIM_START	Scenario2_Clothoid_Drive	2021-08-03 17:32:03
+TIME	0.073
+		Current random seed value = 1628004723
+TIME	0.000
+SIMULATE	Scenario2_Clothoid_Drive
+
+TIME	20.387
+SIM_END		Scenario2_Clothoid_Drive	20.384s	561.161m
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 17:32:27
+TIME	0.070
+		Current random seed value = 1628004747
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	35.552
+SIM_END		Scenario2_Curvature_Drive	35.548s	1108.32m
+TIME	38.478
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 17:33:10
+TIME	0.069
+		Current random seed value = 1628004790
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	9.536
+SIM_END		Scenario2_Curvature_Drive	9.532s	195.331m
+TIME	25.849
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 17:35:58
+TIME	0.071
+		Current random seed value = 1628004958
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	41.517
+SIM_END		Scenario2_Curvature_Drive	41.514s	1317.01m
+TIME	50.060
+SHUTDOWN	CarMaker quick shutdown initiated
+

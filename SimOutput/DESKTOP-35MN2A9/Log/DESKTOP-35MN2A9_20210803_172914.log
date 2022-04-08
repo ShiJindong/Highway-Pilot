@@ -1,0 +1,19 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1113 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-08-03 17:29:04
+ 
+FIRST_INIT	(internal default used)	2021-08-03 17:29:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:29:15
+SIM_START	Scenario2_Clothoid_Drive	2021-08-03 17:29:21
+TIME	0.073
+		Current random seed value = 1628004561
+TIME	0.000
+SIMULATE	Scenario2_Clothoid_Drive
+
+TIME	24.887
+ERROR		Vehicle leaves road at about x=8.17598, y=48.5608 TireNo=3
+SIM_ABORT	Scenario2_Clothoid_Drive	24.887s	629.526m
+TIME	27.326
+SHUTDOWN	CarMaker quick shutdown initiated
+

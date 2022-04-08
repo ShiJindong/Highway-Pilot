@@ -1,0 +1,18 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1157 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-08-04 23:04:16
+ 
+FIRST_INIT	(internal default used)	2021-08-04 23:05:15
+TIME	0.000
+SIM_END			0s	0m
+IDLE	23:05:15
+SIM_START	Scenario4_Overtake	2021-08-04 23:05:19
+TIME	0.071
+		Current random seed value = 1628111119
+TIME	0.000
+SIMULATE	Scenario4_Overtake
+
+TIME	69.418
+SIM_END		Scenario4_Overtake	69.415s	2023.19m
+TIME	73.362
+SHUTDOWN	CarMaker quick shutdown initiated
+

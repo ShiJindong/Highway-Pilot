@@ -1,0 +1,25 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #7 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-06-28 23:30:18
+ 
+FIRST_INIT	(internal default used)	2021-06-28 23:30:28
+TIME	0.000
+SIM_END			0s	0m
+IDLE	23:30:29
+SIM_START	HighwayPilot	2021-06-28 23:30:38
+TIME	0.000
+SIMULATE	HighwayPilot
+
+TIME	13.566
+SIM_END		HighwayPilot	13.563s	520.11m
+TIME	19.449
+SIM_START	HighwayPilot	2021-06-28 23:31:53
+TIME	0.011
+ERROR		AccelCtrl.ACC: no ObjectSensor found with the name 'RadarL'
+SIM_ABORT	HighwayPilot	0s	520.11m
+TIME	4.175
+SIM_START	HighwayPilot	2021-06-28 23:32:35
+TIME	0.011
+ERROR		AccelCtrl.ACC: no ObjectSensor found with the name 'RadarL'
+SIM_ABORT	HighwayPilot	0s	0m
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

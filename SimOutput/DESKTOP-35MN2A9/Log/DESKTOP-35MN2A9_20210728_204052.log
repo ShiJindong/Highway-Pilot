@@ -1,0 +1,43 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1067 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 20:40:43
+ 
+FIRST_INIT	(internal default used)	2021-07-28 20:40:52
+TIME	0.000
+SIM_END			0s	0m
+IDLE	20:40:53
+SIM_START	Scenario3_Overtake	2021-07-28 20:40:58
+TIME	0.073
+		Current random seed value = 1627497658
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	130.574
+SIM_END		Scenario3_Overtake	130.571s	3972.02m
+TIME	132.703
+SIM_START	Scenario3_Overtake	2021-07-28 20:42:05
+TIME	0.075
+		Current random seed value = 1627497725
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	87.756
+SIM_END		Scenario3_Overtake	87.753s	2454.48m
+SIM_START	Scenario3_Overtake	2021-07-28 20:42:53
+TIME	0.071
+		Current random seed value = 1627497773
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	12.126
+SIM_END		Scenario3_Overtake	12.122s	269.52m
+SIM_START	Scenario3_Overtake	2021-07-28 20:43:11
+TIME	0.073
+		Current random seed value = 1627497791
+TIME	0.000
+SIMULATE	Scenario3_Overtake
+
+TIME	140.860
+SIM_END		Scenario3_Overtake	140.857s	4475.28m
+TIME	348.729
+SHUTDOWN	CarMaker quick shutdown initiated
+

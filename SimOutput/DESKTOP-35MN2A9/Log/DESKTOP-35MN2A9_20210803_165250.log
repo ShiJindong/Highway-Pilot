@@ -1,0 +1,26 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1092 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-08-03 16:52:42
+ 
+FIRST_INIT	(internal default used)	2021-08-03 16:52:50
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:52:51
+SIM_START	Scenario2_Curvature_Drive	2021-08-03 16:53:01
+TIME	0.074
+		Current random seed value = 1628002381
+TIME	0.000
+SIMULATE	Scenario2_Curvature_Drive
+
+TIME	88.841
+SIM_END		Scenario2_Curvature_Drive	88.838s	3030.36m
+TIME	117.724
+SIM_START	Scenario2_Clothoid_Drive	2021-08-03 16:58:22
+TIME	0.073
+		Current random seed value = 1628002702
+TIME	0.000
+SIMULATE	Scenario2_Clothoid_Drive
+
+TIME	53.400
+SIM_END		Scenario2_Clothoid_Drive	53.396s	1746.07m
+SHUTDOWN	CarMaker quick shutdown initiated
+

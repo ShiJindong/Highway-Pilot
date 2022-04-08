@@ -1,0 +1,87 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #1064 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-28 20:24:31
+ 
+FIRST_INIT	(internal default used)	2021-07-28 20:24:39
+TIME	0.000
+SIM_END			0s	0m
+IDLE	20:24:40
+SIM_START	Scenario1_Speedcontroll_ACC	2021-07-28 20:24:42
+TIME	0.073
+		Current random seed value = 1627496682
+TIME	0.000
+SIMULATE	Scenario1_Speedcontroll_ACC
+
+TIME	35.367
+SIM_END		Scenario1_Speedcontroll_ACC	35.363s	1089.24m
+TIME	44.168
+SIM_START	Scenario1_Speedcontroll_ACC	2021-07-28 20:26:24
+TIME	0.072
+		Current random seed value = 1627496784
+TIME	0.000
+SIMULATE	Scenario1_Speedcontroll_ACC
+
+TIME	68.766
+SIM_END		Scenario1_Speedcontroll_ACC	68.761s	2059.48m
+SIM_START	Scenario1_Speedcontroll_ACC	2021-07-28 20:27:00
+TIME	0.071
+		Current random seed value = 1627496820
+TIME	0.000
+SIMULATE	Scenario1_Speedcontroll_ACC
+
+TIME	76.820
+SIM_END		Scenario1_Speedcontroll_ACC	76.816s	2283.41m
+SIM_START	Scenario1_Speedcontroll_ACC	2021-07-28 20:27:29
+TIME	0.072
+		Current random seed value = 1627496849
+TIME	0.000
+SIMULATE	Scenario1_Speedcontroll_ACC
+
+TIME	43.489
+SIM_END		Scenario1_Speedcontroll_ACC	43.485s	1367.6m
+SIM_START	Scenario1_Speedcontroll_ACC	2021-07-28 20:27:56
+TIME	0.072
+		Current random seed value = 1627496876
+TIME	0.000
+SIMULATE	Scenario1_Speedcontroll_ACC
+
+TIME	147.306
+SIM_END		Scenario1_Speedcontroll_ACC	147.303s	4475.19m
+TIME	0.001
+TIME	153.330
+SIM_START	Scenario2_LaneKeeping_LaneChange	2021-07-28 20:29:48
+TIME	0.073
+		Current random seed value = 1627496988
+TIME	0.000
+SIMULATE	Scenario2_LaneKeeping_LaneChange
+
+TIME	62.374
+SIM_END		Scenario2_LaneKeeping_LaneChange	62.367s	1880.7m
+TIME	0.001
+TIME	87.913
+SIM_START	Scenario2_LaneKeeping_LaneChange	2021-07-28 20:34:27
+TIME	0.072
+		Current random seed value = 1627497267
+TIME	0.000
+SIMULATE	Scenario2_LaneKeeping_LaneChange
+
+TIME	50.154
+SIM_END		Scenario2_LaneKeeping_LaneChange	50.151s	1288.65m
+SIM_START	Scenario2_LaneKeeping_LaneChange	2021-07-28 20:34:56
+TIME	0.072
+		Current random seed value = 1627497296
+TIME	0.000
+SIMULATE	Scenario2_LaneKeeping_LaneChange
+
+TIME	124.912
+SIM_END		Scenario2_LaneKeeping_LaneChange	124.909s	3939.28m
+TIME	127.272
+SIM_START	Scenario2_LaneKeeping_LaneChange	2021-07-28 20:36:04
+TIME	0.072
+		Current random seed value = 1627497364
+TIME	0.000
+SIMULATE	Scenario2_LaneKeeping_LaneChange
+
+TIME	98.994
+SIM_END		Scenario2_LaneKeeping_LaneChange	98.99s	2858.92m
+SHUTDOWN	CarMaker quick shutdown initiated
+

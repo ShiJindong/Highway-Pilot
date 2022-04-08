@@ -1,0 +1,17 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #14 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-06-29 00:21:55
+ 
+FIRST_INIT	(internal default used)	2021-06-29 00:22:06
+TIME	0.000
+SIM_END			0s	0m
+IDLE	00:22:07
+SIM_START	HighwayPilot	2021-06-29 00:22:10
+TIME	0.000
+SIMULATE	HighwayPilot
+
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 0.100000, ErrInd = 102). (id=200)
+TIME	2.962
+ERROR		Vehicle leaves road at about x=-1513.93, y=906.326 TireNo=1
+SIM_ABORT	HighwayPilot	2.962s	90.5236m
+SHUTDOWN	CarMaker quick shutdown initiated
+

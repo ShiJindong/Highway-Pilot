@@ -1,0 +1,68 @@
+\hypertarget{class_controller}{}\section{Controller Class Reference}
+\label{class_controller}\index{Controller@{Controller}}
+Inheritance diagram for Controller\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_controller}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_controller_a75a8a76b9188d0ea653dcfbe072f728f}\label{class_controller_a75a8a76b9188d0ea653dcfbe072f728f}} 
+{\bfseries Controller} (double, double, double, double)
+\item 
+\mbox{\Hypertarget{class_controller_a9b2eac1cf2c6cd8de25fbe06ab76d9ec}\label{class_controller_a9b2eac1cf2c6cd8de25fbe06ab76d9ec}} 
+{\bfseries Controller} (double)
+\item 
+\mbox{\Hypertarget{class_controller_ac1297a71ed6fee7f14d53c7d075770db}\label{class_controller_ac1297a71ed6fee7f14d53c7d075770db}} 
+void {\bfseries set\+Desr\+Value\+Limit} (double, double)
+\item 
+\mbox{\Hypertarget{class_controller_ae208ecde3f2bbabcefd5b5fd1a07f665}\label{class_controller_ae208ecde3f2bbabcefd5b5fd1a07f665}} 
+void {\bfseries set\+Output\+Limit} (double, double)
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_controller_a61c85fc851f12adecabcd34fc8bc6942}\label{class_controller_a61c85fc851f12adecabcd34fc8bc6942}} 
+double \mbox{\hyperlink{class_controller_a61c85fc851f12adecabcd34fc8bc6942}{dt}}
+\begin{DoxyCompactList}\small\item\em Sample time. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_a8598198ef69da91488d4f1290cd180ae}\label{class_controller_a8598198ef69da91488d4f1290cd180ae}} 
+double \mbox{\hyperlink{class_controller_a8598198ef69da91488d4f1290cd180ae}{Kp}}
+\begin{DoxyCompactList}\small\item\em Parameter of controller. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_aefb3b5df3639816d387b669f0e3447fd}\label{class_controller_aefb3b5df3639816d387b669f0e3447fd}} 
+double {\bfseries Ki}
+\item 
+\mbox{\Hypertarget{class_controller_ae0dfb120a314c8d07b7bf2b0202edea6}\label{class_controller_ae0dfb120a314c8d07b7bf2b0202edea6}} 
+double {\bfseries Kd}
+\item 
+\mbox{\Hypertarget{class_controller_a621f7c9f545ea73b00c4a8a1edbfa212}\label{class_controller_a621f7c9f545ea73b00c4a8a1edbfa212}} 
+double \mbox{\hyperlink{class_controller_a621f7c9f545ea73b00c4a8a1edbfa212}{error\+\_\+pre}}
+\begin{DoxyCompactList}\small\item\em error of previous step \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_aa2de3a56462e86a7390324c04d31c6c5}\label{class_controller_aa2de3a56462e86a7390324c04d31c6c5}} 
+double \mbox{\hyperlink{class_controller_aa2de3a56462e86a7390324c04d31c6c5}{error\+\_\+pre2}}
+\begin{DoxyCompactList}\small\item\em error of previous 2 step \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_ad3426386f22bdf2e1781a27cfd87d1f8}\label{class_controller_ad3426386f22bdf2e1781a27cfd87d1f8}} 
+double \mbox{\hyperlink{class_controller_ad3426386f22bdf2e1781a27cfd87d1f8}{integral}}
+\begin{DoxyCompactList}\small\item\em integral part \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_af200ab6d3befeb67339074a9e1bc3a84}\label{class_controller_af200ab6d3befeb67339074a9e1bc3a84}} 
+double \mbox{\hyperlink{class_controller_af200ab6d3befeb67339074a9e1bc3a84}{output}}
+\begin{DoxyCompactList}\small\item\em output of controller \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_aba1de8e0e112e081ed9f64ab8454fdf6}\label{class_controller_aba1de8e0e112e081ed9f64ab8454fdf6}} 
+double \mbox{\hyperlink{class_controller_aba1de8e0e112e081ed9f64ab8454fdf6}{desr\+Value\+Min}}
+\begin{DoxyCompactList}\small\item\em minimal desired value \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_ab77e59e477d4deab4b46f35ea7c5506c}\label{class_controller_ab77e59e477d4deab4b46f35ea7c5506c}} 
+double \mbox{\hyperlink{class_controller_ab77e59e477d4deab4b46f35ea7c5506c}{desr\+Value\+Max}}
+\begin{DoxyCompactList}\small\item\em maximal desired value \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_a2ef60beca63b2f987bbee1c506c99ee6}\label{class_controller_a2ef60beca63b2f987bbee1c506c99ee6}} 
+double \mbox{\hyperlink{class_controller_a2ef60beca63b2f987bbee1c506c99ee6}{output\+Min}}
+\begin{DoxyCompactList}\small\item\em minimal output value \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_controller_a7a95bc4b00cb87c4fb7547876fc30adf}\label{class_controller_a7a95bc4b00cb87c4fb7547876fc30adf}} 
+double \mbox{\hyperlink{class_controller_a7a95bc4b00cb87c4fb7547876fc30adf}{output\+Max}}
+\begin{DoxyCompactList}\small\item\em maximal output value \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+C\+M\+\_\+\+Projects/pse\+\_\+2021\+\_\+gruppe\+\_\+08/\+Highway\+Pilot\+\_\+\+Gruppe\+\_\+08/src/Controller.\+h\item 
+C\+:/\+C\+M\+\_\+\+Projects/pse\+\_\+2021\+\_\+gruppe\+\_\+08/\+Highway\+Pilot\+\_\+\+Gruppe\+\_\+08/src/Controller.\+cpp\end{DoxyCompactItemize}

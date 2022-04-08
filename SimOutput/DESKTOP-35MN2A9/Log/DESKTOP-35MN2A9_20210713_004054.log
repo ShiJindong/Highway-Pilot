@@ -1,0 +1,17 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #662 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-13 00:40:45
+ 
+FIRST_INIT	(internal default used)	2021-07-13 00:40:54
+TIME	0.000
+SIM_END			0s	0m
+IDLE	00:40:55
+SIM_START	HighwayPilot_v2_2	2021-07-13 00:40:57
+TIME	0.067
+		Current random seed value = 1626129657
+TIME	0.000
+SIMULATE	HighwayPilot_v2_2
+
+TIME	28.857
+SIM_END		HighwayPilot_v2_2	28.854s	988.16m
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,16 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #285 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-03 17:24:12
+ 
+FIRST_INIT	(internal default used)	2021-07-03 17:24:19
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:24:20
+SIM_START	HighwayPilot_v1_2	2021-07-03 17:24:22
+TIME	0.000
+SIMULATE	HighwayPilot_v1_2
+
+TIME	2.001
+ERROR		Vehicle leaves road at about x=631.83, y=-262.93 TireNo=2
+SIM_ABORT	HighwayPilot_v1_2	2.001s	35.7047m
+SHUTDOWN	CarMaker quick shutdown initiated
+
