@@ -9,7 +9,7 @@ In this project, the sensordate (inclusive IMU, Radar, Object-Sensor, Road-Senso
 - Longitudinal speed control (free drive mode)
 - For Emergency: The ego vehicle should change lane left/right or brake quickly, if there is any vehicle ahead too close to the ego vehicle. (obstacle avoid mode)
 - Lane keeping by following the road line
-- Lane change triggered with Direct Variable Access (DVA)
+- Lane change triggered with Direct Variable Access (DVA) of CarMaker
 - Lane change left/right is permited, only if there is a corresponding gap in left/right lane
 - Overtake: entire overtake process consists of lane change left, overtake beside the vehicle and lane change right
 
