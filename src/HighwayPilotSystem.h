@@ -1,7 +1,7 @@
 /*
-**  Praktikum Software Engineering (SS 2021) - Highway Pilot
-**  Gruppe 8: Yiwei Miao, Mingqian Ji, Fan Xiao, Jindong Shi
-*/
+ *  Highway Pilot
+ *  Created by Jindong Shi in year 2021
+ */
 
 #pragma once
 

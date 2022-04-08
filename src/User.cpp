@@ -96,10 +96,10 @@
 /* @@PLUGIN-END@@ */
 
 
-/* 
-**  Praktikum Software Engineering (SS 2021) - Highway Pilot 
-**  Gruppe 8: Yiwei Miao, Mingqian Ji, Fan Xiao, Jindong Shi
-*/ 
+/*
+ *  Highway Pilot
+ *  Modified by Jindong Shi in year 2021
+ */
 
 
 #include "HighwayPilotSystem.h"
