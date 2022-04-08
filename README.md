@@ -1,6 +1,6 @@
 # Highway-Pilot
 ---
-This is a Highway-Pilot driver-assistance system I wrote with C++ language in Laboratory of Software Engineering in year 2021. (For more information, please visit https://www.itiv.kit.edu/)
+This is a Highway-Pilot driver-assistance system I built with C++ language in Laboratory of Software Engineering in year 2021. (For more information, please visit https://www.itiv.kit.edu/)
 
 In this project, the sensordate (inclusive IMU, Radar, Object-Sensor, Road-Sensor, Tire-Sensor) are processed und used for lateral and longitudinal control of vehicles. The following functionalities are realized:
 - Set desired speed and speed limit of vehicles
