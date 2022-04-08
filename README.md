@@ -12,4 +12,4 @@ In this project, the sensordate (including IMU, Radar, Object-Sensor, Road-Senso
 - Lane change left/right is permited, only if there is a corresponding gap in left/right lane
 - Overtake: Entire overtake process consists of lane change left, overtake beside another vehicle and lane change right
 
-CarMaker, as an advanced vehicle simulation, integration and test platform  (please visit https://ipg-automotive.com/), was used to implement the virtual test scenarios (in filepath /Highway-Pilot/Data/TestRun/) and to verify the functionalities of this Highway-Pilot system.
+CarMaker, as an advanced vehicle simulation, integration and test platform  (please visit https://ipg-automotive.com/), was used to implement the virtual test scenarios (stored in filepath /Highway-Pilot/Data/TestRun/) and to verify the functionalities of this Highway-Pilot system.
