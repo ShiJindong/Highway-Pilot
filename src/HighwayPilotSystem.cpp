@@ -1,8 +1,3 @@
-/*
- *  Highway Pilot
- *  Created by Jindong Shi in year 2021
- */
-
 #include "HighwayPilotSystem.h"
 
 HighwayPilotSystem::HighwayPilotSystem(double dt) : desrSpd(130), SpdMin(60), SpdMax(130), Timegap(2.5), SafeDistance(40), spdcontroller(dt), distance_controller(dt), LKcontroller(dt) { // Default: desrSpd = 130 km/h, SpdMin = 60 km/h, SpdMax = 130 km/h, Timegap = 2.5s

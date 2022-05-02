@@ -96,11 +96,6 @@
 /* @@PLUGIN-END@@ */
 
 
-/*
- *  Highway Pilot
- *  Modified by Jindong Shi in year 2021
- */
-
 
 #include "HighwayPilotSystem.h"
 #include "Controller.h"

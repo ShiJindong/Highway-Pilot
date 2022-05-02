@@ -1,8 +1,3 @@
-/*
- *  Highway Pilot
- *  Created by Jindong Shi in year 2021
- */
-
 #pragma once
 
 #include <cmath>
